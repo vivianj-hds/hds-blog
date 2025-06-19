@@ -1,7 +1,7 @@
 ---
 title: "Post With Code"
-author: "Harlow Malloc"
-date: "2025-06-12"
+author: "Vivian Jiang"
+date: "19-Jun-2025"
 categories: [news, code, analysis]
 image: "image.jpg"
 ---
@@ -9,5 +9,5 @@ image: "image.jpg"
 This is a post with executable code.
 
 ```{r}
-1 + 1
+log(35)
 ```
